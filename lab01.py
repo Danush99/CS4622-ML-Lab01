@@ -123,6 +123,7 @@ from sklearn import svm
 from sklearn import metrics
 from sklearn.metrics import f1_score
 from sklearn.metrics import confusion_matrix
+from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 
 # model train by Initialize kNN classifier
